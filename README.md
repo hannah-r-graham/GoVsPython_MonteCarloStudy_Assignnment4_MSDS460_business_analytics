@@ -1,11 +1,5 @@
 # GoVsPython_MonteCarloStudy_Assignnment4_MSDS460_business_analytics
 
-## Write Up:
-##Go Code:
-##Python Code:
-##Results:
-
-
 
 
 For this assignment, we will use simulated data and run a performance benchmark. You are welcome to use Go, Python, and/or R for this assignment. In fact, you are encouraged to work on a case study with accompanying data using each of the three languages of data science: Go, Python, and R.
